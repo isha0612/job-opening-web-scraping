@@ -1,11 +1,94 @@
-Company Name,About,Company Size,Company Funding,Locations,Markets,Job Openings
-tulip-1,The Leader in Frontline Operations,51-200 people,$131.4M,"Boston, Munich, Budapest","Enterprise Software, Manufacturing, Analytics, Productivity Software, Internet of Things, Web Development, Enterprise Application","[{""position"":""Executive Assistant"",""department"":""Operations"",""jobDescription"":""\n\n\n\n"",""jobLocation"":""Somerville"",""jobSalary"":""""},{""position"":""FP&A Analyst "",""department"":""Operations"",""jobDescription"":""\nYou are a hands-on, financially-oriented, and data-driven individual\nYou are not afraid to ask the questions no else is asking and are able to single-mindedly find and analyze the supporting data and pursue the answers to these questions\n\n"",""jobLocation"":""Hungary • Budapest"",""jobSalary"":""""}]"
-astranis,Building next-generation internet satellites to get the world online,201-500 people,$357.7M,San Francisco,"Internet, Telecommunications, Aerospace","[{""position"":""Electrical Test Engineer"",""department"":""Engineering"",""jobDescription"":""\nDevelop and design automated hardware and software solutions to test+validate electronics hardware\nDesign PCBA's to interface with flight hardware\n\n"",""jobLocation"":""San Francisco"",""jobSalary"":""""},{""position"":""Production Development - Associate Program (Fall 2024)"",""department"":""Engineering"",""jobDescription"":""\nWork closely with the Production team to analyze and interpret large datasets related to production quality\nDevelop dashboards, metrics, and visuals to identify trends in product defect rates and defect types\n\n"",""jobLocation"":""San Francisco"",""jobSalary"":""""}]"
-healthbyro,"We are Ro, a mission-driven healthcare technology company",51-200 people,$176.1M,"New York City, New York","Healthcare, Fitness, Corporate Wellness","[{""position"":""Senior Designer, Paid Social"",""department"":""Designer"",""jobDescription"":""\nYou’ll be focused on great paid social creative that converts. You will concept and create visually captivating paid social content (static, video, GIF, etc.) that drives conversion and user engagement while communicating our brand messaging. Your work will be measured against metric goals such as CTR, CVR, and CAC. \n\n"",""jobLocation"":""Remote • New York"",""jobSalary"":""""},{""position"":""Senior Security Automation Engineer"",""department"":""Engineering"",""jobDescription"":""\nEngineer, operate and maintain existing security technologies such as SIEM/SOAR, SWG, CASB, CSPM and EDR for business and patient-facing environments\nCollaborate with cross-functional teams to identify security requirements, assess technology solutions, and integrate security controls into new and existing systems and applications\n\n"",""jobLocation"":""Remote • New York"",""jobSalary"":""""}]"
-earnin,Make financial momentum accessible to everyone,201-500 people,$190.1M,"Cincinnati, Palo Alto, Guadalajara","Financial Services, E-Commerce, Payments, Mobile Payments, Fin Tech","[{""position"":""Senior Product Designer"",""department"":""Designer"",""jobDescription"":""\nMake use of their money in the most efficient, painless way possible.\nUnderstand how to make progress with money\n\n"",""jobLocation"":""Palo Alto"",""jobSalary"":""$136k – $210k""},{""position"":""Senior Web Designer"",""department"":""Designer"",""jobDescription"":""\nPartner with marketers, creative directors, copywriters, and engineers to conceptualize and develop groundbreaking creative for the website\nOwn the creation of web pages, design assets, and implementation of our Design System for earnin.com\n\n"",""jobLocation"":""Mexico"",""jobSalary"":""""}]"
-pathai,"Using AI to diagnose disease, faster",51-200 people,$90.2M,Boston,"Healthcare, Machine Learning, Diagnostics, Artificial Intelligence, Software","[{""position"":""Senior Quality Engineer"",""department"":""Engineering"",""jobDescription"":""\nConducting software validations including plans, protocols and reports\nSupporting the QMS\n\n"",""jobLocation"":""Remote • Boston"",""jobSalary"":""""},{""position"":""Senior Manager, Digital Diagnostics & Corporate Marketing"",""department"":""Marketing"",""jobDescription"":""\nCreate launch plans for new Digital Diagnostics customer-facing product(s) or service(s) in partnership with Digital Diagnostics Product and Commercial teams including target customer identification, key messages, go-to-market plan, and market growth pathways\nCreate PathAI's marketing and communication strategy for Digital Diagnostics-related  industry ...\n\n"",""jobLocation"":""Remote • Boston"",""jobSalary"":""""}]"
-konghq,Next-Generation API Platform for Modern Architectures,51-200 people,$69.1M,San Francisco,"Enterprise Software, Cloud Computing, Information Services, Cloud Data Services, Cloud Infrastructure","[{""position"":""Senior Product Designer"",""department"":""Designer"",""jobDescription"":""\n\nProduct Design Strategy: Design and validate the right solution. You will be trusted as a subject-matter expert to take on complex projects and contribute new ideas that enhance the bigger picture. \n\nCraft: You will make meaningful contributions that raise the level of quality of our products ...\n\n"",""jobLocation"":""Remote • Canada"",""jobSalary"":""""},{""position"":""Cloud Operations Engineer - (Bangalore)"",""department"":""Engineering"",""jobDescription"":""\nTroubleshooting and resolving issues: Identifying and addressing technical issues, such as performance bottlenecks or system failures, to minimize downtime and maintain service continuity.\nAutomation and scripting: Developing and implementing automation scripts and tools to streamline operational tasks, improve efficiency, and enhance scalability.\n\n"",""jobLocation"":""India"",""jobSalary"":""""}]"
-fictiv,A leading tech company building the future through our digital echosystem!,51-200 people,$193M,"California, Texas, United States","Hardware, Manufacturing, Machine Learning, Artificial Intelligence, Virtualization, 3D Printing, Software Engineering, Rapid Prototyping","[{""position"":""Human Resources Specialist / Office Manager"",""department"":""Operations"",""jobDescription"":""\nThree to five years’ human resource and office management experience preferred\nProficiency in business English & Spanish required\n\n"",""jobLocation"":""Mexico • Monterrey"",""jobSalary"":""""},{""position"":""Senior Manager - Finance "",""department"":""Operations"",""jobDescription"":""\nOwn general ledger and financial reporting for the company\nEnsure statutory compliance on bookkeeping, reporting, and taxation.\n\n"",""jobLocation"":""India • Bengaluru"",""jobSalary"":""""}]"
-shift-technology,Fraud detection,51-200 people,$99.7M,"Boston, Paris","SaaS, Information Technology, Big Data, Artificial Intelligence, Insurance, Software","[{""position"":""Data Scientist (recent graduate)"",""department"":""Engineering"",""jobDescription"":""\nData scientists work on a broad range of subjects, acquiring a lot of technical and professional experience in data science, data engineering, coding, business understanding and client interactions; skills invaluable in any career.\nOur company is small enough that each person’s achievements have an impact on overall performan...\n\n"",""jobLocation"":""Singapore"",""jobSalary"":""""},{""position"":""Data Scientist - English speaker (Hybrid)"",""department"":""Engineering"",""jobDescription"":""\nAs a member of the data science team, you will be working alongside our technical experts and your role will be key to roll-out our different solutions to the clients.\nSet-up and deploy in production the data processing pipelines of our clients, including data reception in batches or in real-time, data cleaning, information extraction, calibration of fraud detection models, etc.\n\n"",""jobLocation"":""Brazil"",""jobSalary"":""""}]"
-transferwise,We're on a mission to bring transparency to finance. Affordable and clear,1001-5000 people,$396.7M,"New York City, Singapore, London","Financial Services, Payments, Peer-to-Peer, Finance, Fin Tech","[{""position"":""Backend Engineer  - Spend Settlements & Reconciliation"",""department"":""Engineering"",""jobDescription"":""\nA strong product mindset and passion for user experience, you prioritize work with the customers in mind and make data-driven decisions to fix customer pain-points\nGreat communication skills and the ability to articulate complex, technical concepts to non-technical audiences\n\n"",""jobLocation"":""London"",""jobSalary"":""""},{""position"":""Cloud Engineer"",""department"":""Engineering"",""jobDescription"":""\nContinuously iterate on our high-availability network architecture in AWS\nProvide reusable Terraform modules and automation around them for seamless self-serve experience\n\n"",""jobLocation"":""London"",""jobSalary"":""""}]"
-benchling,Benchling’s mission is to unlock the power of biotechnology,501-1000 people,$112.8M,"Boston, San Francisco","Biotechnology, Life Sciences, Enterprise Software, Healthcare, Synthetic Biology, Bioinformatics, Software, Cloud Data Services","[{""position"":""Product Design Leader, Data and Apps"",""department"":""Designer"",""jobDescription"":""\nPartner with leadership teams across Product, Engineering, Design, and Strategy to build and refine our strategy, organization, product roadmaps, and approach to execution\nWork closely with our customers to understand how they’re using our product, and what we can do to make them more productive\n\n"",""jobLocation"":""San Francisco"",""jobSalary"":""$195k – $293k""},{""position"":""Product Design Leader, Data and Apps"",""department"":""Designer"",""jobDescription"":""\nPartner with leadership teams across Product, Engineering, Design, and Strategy to build and refine our strategy, organization, product roadmaps, and approach to execution\nWork closely with our customers to understand how they’re using our product, and what we can do to make them more productive\n\n"",""jobLocation"":""Boston"",""jobSalary"":""$195k – $293k""}]"
+Company Name,About,Company Size,Company Funding,Locations,Markets,Job-1 Position,Job-1 Department,Job-1 Description,Job-1 Location,Job-1 Salary,Job-2 Position,Job-2 Department,Job-2 Description,Job-2 Location,Job-2 Salary
+netskope,"Netskope is redefining cloud, network, and data security",1001-5000 people,$1.2B,"San Francisco, London, Melbourne","Enterprise Software, Enterprise Security, Data Security, Software, Mobile Security, Cyber Security, Cloud Security",CRM Data Architect,Engineering,"
+Serve as the chief data architect for Netskope GTM, driving all aspects of the automation for data operations pipelines, including owning and creating data warehouses, creating ETL, and determining 3P data sources.
+Proactively and collaboratively work with Data Specialists on the team to identify and create n...
+
+",Costa Rica • San Jose,,Cloud Security Engineer,Engineering,"
+Be the primary point of contact for all support and escalations tickets
+Be intuitive and inventive by providing solutions and workarounds for customers
+
+",Japan,
+justanswer,"Ask, connect, save.  Linking you to real experts to really answer your questions",201-500 people,$50.7M,"San Francisco, Bengaluru","Consumer Internet, Internet, E-Commerce, Professional Services, Q&A, Customer Service, Advice",AI Prompt Engineer,Engineering,"
+Use LLMs to process large data swaths, create desired outcomes, and shape bot logic
+Use Excel and basic analysis tools to evaluate the efficiency of the LLM prompts
+
+",United States,,Full Stack Developer ( 3-6 Years Exp),Engineering,"Full-Stack Developer(Exp.3+years)
+
+At JustAnswer, we have an excellent global software development team with members in San Francisco, Ukraine, and India.
+",Bengaluru,
+bazaarvoice,Our mission is to build smarter shopper experiences across the entire customer journey,501-1000 people,$130.5M,"Austin, London, Paris","Social Media, SaaS, E-Commerce, Advertising, Social Commerce, Content, Ecommerce",Senior Growth Product Designer,Designer,"
+You have an excellent track record of shipping features for either consumer and/or enterprise SaaS applications.
+You’re able to design flows and experiences that are simple, sharp, and innovative.
+
+",New York,,Senior Product Designer,Designer,"About Bazaarvoice At Bazaarvoice, we create smart shopping experiences. Through our expansive global network, product-passionate community & enterprise technology, we connect thousands of brands and retailers with billions of consumers.
+",Bengaluru,
+supertokens,SuperTokens (YC S20) is building open source user authentication,11-50 people,$4M,"India, United States","Developer Tools, Web Development, Cloud Infrastructure, Global",Senior Backend Engineer (NodeJs or Java),Engineering,"
+Updated CV
+Link to your Linkedin profile
+
+",Onsite or remote • India • Delhi • Gurgaon,₹20L – ₹50L • 0.0% – 0.1%,Senior Fullstack Engineer,Engineering,"
+Updated CV
+Linkedin profile
+
+",Onsite or remote • United States • United Kingdom,$90k – $100k • 0.0% – 1.0%
+pilotplans,"Social Trip Planner - Discover, plan, book and relive trips with friends",11-50 people,Private Company,"Canada, India, Vancouver","Online Travel, Artificial Intelligence, Technology, Travel",Front-End Full-Stack Software Engineer,Engineering,"
+🚩You’re overworked and/or underappreciated
+🚩You lack faith, trust or closeness to your colleagues or leaders
+
+",Remote only • Bangalore Rural • Bangalore Urban • Bangalore City Municipal Corporation Layout,₹6L – ₹10L • 0.01% – 0.05%,Front-End Full-Stack Software Engineer,Engineering,"
+🚩You’re overworked and/or underappreciated
+🚩You lack faith, trust or closeness to your colleagues or leaders
+
+",Remote only • Delhi,₹6L – ₹10L • 0.01% – 0.05%
+wareiq,Amazon-like next day delivery for eCommerce companies in India,51-200 people,$1.6M,"Bengaluru, Gurgaon","Supply Chain Management, Logistics, Ecommerce",Backend Engineer,Engineering,"
+Write maintainable/ scalable /efficient code.
+Focus on scalability, performance, service robustness
+
+",In office • Bengaluru,₹15L – ₹17L,Solutions Engineer,Engineering,"
+Investigating, troubleshooting, diagnosing and resolving technical issues in a cloud/SaaS
+environment.
+Communicating effectively (both verbal and written) with our customers and internal
+stakeholders.
+
+",In office • Bangalore Urban,₹6L – ₹8L • No equity
+nanonets,Automating manual processes using AI,51-200 people,$11.6M,"San Francisco, Bengaluru, Mumbai","SaaS, Enterprise Software, Machine Learning, Deep Learning",Senior Product Designer,Designer,"
+Collaborate with product managers and analysts to gather and assess user needs.
+Conduct interviews with customers to identify pain points and map out user journeys.
+
+",In office • Mumbai • Bangalore Urban,₹30L – ₹50L • No equity,Backend Engineer,Engineering,"
+Backend experience - Preferably golang
+Databases - Understanding of data modeling for SQL preferably MySql/PostgreSQL
+
+",In office • India • Bengaluru • Mumbai,₹20L – ₹70L • 0.0% – 0.1%
+clearfeedai,Conversational Support Platform for Slack and Teams,11-50 people,$2.5M,Bengaluru,"Enterprise Software, Messaging, Collaboration",Software Development Engineer (Node JS/Nest JS),Engineering,"
+
+Impactful Mission: Join us in solving a significant challenge that affects businesses worldwide.
+
+Experienced Leadership: Collaborate with founders who have a track record of scaling businesses and crafting notable products.
+
+",In office • Bangalore Urban,₹15L – ₹25L • 0.05% – 0.15%,"Content Writer - Slack, Productivity Tools, and AI",Marketing,"
+Bachelor's degree in Computer Science, Engineering, Journalism, Communications, or a related field.
+Minimum of 1 year of professional experience as a content writer (or intern), focusing on blog writing.
+
+",Onsite or remote • Bengaluru,₹3L – ₹8.4L • No equity
+donatekart-1,India's Most Transparent Crowdfunding Platform,11-50 people,$360K,Hyderabad,"Crowd Funding, Social Enterprise",Ads Specialist,Marketing,"About Donatekart: 
+Are you someone who cares deeply about making a real difference? Then Donatekart is the right place for you!
+",In office • Bangalore Urban,₹6.5L – ₹7.5L,Content Writer,Marketing,"
+Conduct interviews with campaigners (changemakers) to understand their work, the impact they are making, and the objectives of their fundraising campaigns.
+Research and gather additional information about the cause, including statistics, testimonials, and real-life examples, to enhance the campaign story.
+
+",In office • Bengaluru,₹5L – ₹8L
+mediamelon-3,B2B SaaS Data Platform for Video Streaming (OTT) Analytics,11-50 people,$9M,"San Francisco, Bengaluru","Analytics, Internet Infrastructure, Big Data, Video Streaming",Data Scientist,Engineering,"Job description
+
+MediaMelon is looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights.
+",Remote • India,No equity,DevOps Engineer,Engineering,"Job Title: DevOps Engineer
+
+*Role: Devops ,Cloud Infra / CICD *
+
+Job Requirements:
+Min 3-5 years of experience in Devops
+3 years- experience in cloud infra - AWS 
+2 years - Knowledge of CI-CD pipelines like Jenkins (mandatory)
+2 years -  Docker, Kuberenetes
+2 years - Deployment of Kafka, Redis, C...
+",In office • Bengaluru • Bangalore Urban,₹10L – ₹20L
