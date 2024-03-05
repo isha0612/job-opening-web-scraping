@@ -1,7 +1,7 @@
 # Web Scrapper Project
 
 
-This web scraping project aims to gather information on the latest job opportunities from approximately 10 companies or startups and organizes the data into a CSV file.
+This web scraping project aims to gather information on the latest job opportunities from approximately 20+ companies or startups and organizes the data into a CSV file.
 
 
 ### Clone the repository, install packages

@@ -13,7 +13,7 @@ const url = 'https://wellfound.com/discover/startups?location=bangalore-urban';
 const launchOptions = {
     product: 'firefox',
     executablePath: '/Applications/Firefox.app/Contents/MacOS/firefox',
-    headless: false,
+    headless: true,
     slowMo: 100
 }
 
@@ -47,8 +47,8 @@ async function scrapeJobOpenings() {
     await page.setViewport({ width: 1280, height: 720 });
 
     try {
+        // Navigate to login page
         await page.goto(loginUrl, { waitUntil: 'domcontentloaded' });
-        // const emailField = await page.$('input[type="email"]');
         await page.waitForSelector('input[type="email"]');
         const emailField = await page.$('input[type="email"]');
         await page.waitForSelector('input[type="password"]');
@@ -57,29 +57,26 @@ async function scrapeJobOpenings() {
         const loginField = await page.$('input[type="submit"]');
 
         if (emailField && passwordField && loginField) {
-            // Type some text into the email field
+            // Type data into the fields
             await emailField.type(process.env.EMAIL);
             await passwordField.type(process.env.PASSWORD);
-            await loginField.click();
 
+            // Click the login button
+            await loginField.click();
             await page.waitForNavigation();
 
-            // Perform other interactions as needed
+            // Navigate to the discover startups page
             await page.goto(url, { waitUntil: 'domcontentloaded' });  // Increase the timeout as needed
             await page.waitForSelector("a[href^='/company/']");
             const limitedLists = await page.$$("a[href^='/company/']");
-            console.log(limitedLists.length);
             const companyLists = new Array();
 
             for (let company of limitedLists) {
                 companyLists.push(await company.evaluate(element => element.getAttribute('href')));
             }
 
-            let i = 0;
             for (const href of companyLists) {
                 try {
-                    console.log('href:', href);
-
                     const match = href.match(/\/company\/(.*)/);
                     const completeUrl = new URL(`${href}/jobs?location=bangalore-urban`, url).href;
                     await page.goto(completeUrl, { waitUntil: 'domcontentloaded' });
@@ -92,29 +89,17 @@ async function scrapeJobOpenings() {
                     const job = await page.$$('.styles_component__2UhSH');
 
                     const companyName = match[1];
-                    console.log("companyName", companyName);
-
                     const companyDescription = await h2.evaluate(element => element.textContent);
-                    console.log("companyDescription", companyDescription);
-
                     const companySize = await dts[2].evaluate(element => element.textContent);
-                    console.log("companySize", companySize);
-
                     const companyFunding = await dts[3].evaluate(element => element.textContent);
-                    console.log("companyFunding", companyFunding);
-
                     const companyLocations = new Set();
                     for (let locationhref of locationhrefs) {
                         companyLocations.add(await locationhref.evaluate(element => element.textContent));
                     }
-                    console.log("companyLocations", companyLocations);
-
                     const companyMarkets = new Set();
                     for (let marketref of marketrefs) {
                         companyMarkets.add(await marketref.evaluate(element => element.textContent));
                     }
-                    console.log("companyMarkets", companyMarkets);
-
                     const jobPosition1 = await job[0].evaluate(element => element ? element.querySelector('h4').textContent : null);
                     const jobPosition2 = await job[1].evaluate(element => element ? element.querySelector('h4').textContent : null);
 
@@ -150,20 +135,16 @@ async function scrapeJobOpenings() {
                     }];
 
                     await csvWriter.writeRecords(data);
-                    i++;
-                    if (i === 10) break;
                 }
                 catch (error) {
                     continue;
                 }
             }
         }
-
-
-
     } catch (error) {
         console.error('error:', error);
     } finally {
+        console.log('Scraping completed');
         await browser.close();
     }
 }
